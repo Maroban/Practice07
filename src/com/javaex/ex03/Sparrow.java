@@ -6,9 +6,4 @@ public class Sparrow implements Soundable {
 		return "짹짹";
 	}
 
-	public void print() {
-		System.out.println("3번 참새 울음!");
-	}
-	
-	
 }

@@ -4,5 +4,4 @@ public interface Soundable {
 
     public String sound();
     
-    public void print();
 }
